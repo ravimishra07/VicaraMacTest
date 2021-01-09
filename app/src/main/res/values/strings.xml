@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Vicara Machine Test</string>
+    <string name="dismiss">dismiss</string>
+    <string name="channel_name">Notification</string>
+    <string name="channel_description">Notification description</string>
+    <string name="wifi_on">WiFi is turned ON</string>
+    <string name="wifi_off">WiFi is turned OFF</string>
+    <string name="bt_on">Bluetooth is turned ON</string>
+    <string name="bt_off">Bluetooth is turned OFF</string>
+
+</resources>
